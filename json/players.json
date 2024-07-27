@@ -1,0 +1,40 @@
+[
+  {
+    "platformId": 0,
+    "deviceId": "test",
+    "accountId": 1,
+    "username": "Coach",
+    "displayName": "Coach",
+    "Level": 99,
+    "XP": 0,
+    "bannerImage": null,
+    "personalPronouns": 0,
+    "identityFlags": 0,
+    "createdAt": "2024-02-24T19:11:11.2029552",
+    "isDeveloper": true,
+    "password": null,
+    "isJunior": false,
+    "bio": "test",
+    "platforms": 1,
+    "profileImage": "DefaultProfileImage",
+    "lastLoginTime": "2024-02-24T19:11:11.2029552",
+    "Rep": {
+      "IsCheerful": true,
+      "Noteriety": 0.0,
+      "SelectedCheer": 0,
+      "CheerCredit": 0,
+      "CheerGeneral": 0,
+      "CheerHelpful": 0,
+      "CheerCreative": 0,
+      "CheerGreatHost": 0,
+      "CheerSportsman": 0
+    },
+    "Authorization": "",
+    "avatarData": {
+      "OutfitSelections": "21599b51-c50f-43d8-ac5f-62c30cd02ca5,,,,0;31bb82db-cd30-4988-a8bf-3ce55a12a4c9,,,,0;b6rLwzD4NkKV7xKn9ZYVkA,TEgugZRs80iJbhL87RdYwg,oHKhT-GTx0iFWrrlz9s6Tw,,1",
+      "FaceFeatures": "{\"ver\":5,\"eyeId\":\"7szdCr_Q00-c50QJ1rLvxg\",\"eyePos\":{\"x\":0.003236842341721058,\"y\":0.006024859845638275},\"eyeScl\":-0.0020316801965236665,\"mouthId\":\"pc1z8k98X0ae0Nab-IKhfA\",\"mouthPos\":{\"x\":0.019394949078559877,\"y\":0.018625065684318544},\"mouthScl\":-0.0012852326035499573,\"hairPrimaryColorId\":\"befcc00a-a2e6-48e4-864c-593d57bbbb5b\",\"hairSecondaryColorId\":\"f9a50d3d-a6e0-42a4-a4e3-42dc89f84a2e\",\"hairPatternId\":\"OigHQzfNaUao_EhQTNQbfg\",\"beardColorId\":\"f9a50d3d-a6e0-42a4-a4e3-42dc89f84a2e\",\"beardSecondaryColorId\":\"befcc00a-a2e6-48e4-864c-593d57bbbb5b\",\"faceShapeId\":\"yR4oYZr_AUSynXCgwS2lGw\",\"bodyShapeId\":\"RExJfB99XEqN4K2-x5QOBQ\",\"useHatAnchorParams\":true,\"hideEars\":true,\"hatAnchorParams\":{\"NormalizedPosition\":{\"x\":0.5,\"y\":0.5888189077377319},\"HemisphereOffsets\":{\"x\":0.007150773890316486,\"y\":0.0,\"z\":-0.0015775013016536832},\"HemisphereRotations\":{\"x\":0.0,\"y\":0.0,\"z\":0.0}}}",
+      "SkinColor": "Xac-W_R330KfOz-pQla9qg",
+      "HairColor": "3Q8U6E5pV0uzK141ut2WBg"
+    }
+  }
+]

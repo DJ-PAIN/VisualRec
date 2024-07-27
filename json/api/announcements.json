@@ -1,0 +1,14 @@
+[
+    {
+      "AnnouncementId": 1,
+      "AnnouncementType": 4,
+      "Title": "Welcome to the OldRecRoom",
+      "Body": "Welcome to OldRecRoom",
+      "ImageName": "icon.png",
+      "LinkType": 0,
+      "LinkName": "",
+      "LinkUri": "",
+      "Platform": -1,
+      "CreatedAt": "2024-06-22T04:53:47.1297623+00:00"
+    }
+  ]

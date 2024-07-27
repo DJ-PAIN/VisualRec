@@ -1,0 +1,91 @@
+{
+    "FeaturedPlayer": {
+        "Id": 2,
+        "TitleOverride": null,
+        "UrlOverride": null
+    },
+    "FeaturedRoomGroup": {
+        "FeaturedRoomGroupId": 1,
+        "Name": "Featured Rooms",
+        "StartAt": "2023-05-02T07:00:00Z",
+        "EndAt": "2023-05-09T07:00:00Z",
+        "Rooms": []
+    },
+    "CurrentAnnouncement": {
+        "Message": "     OldRecRoom Discord    ====>",
+        "MoreInfoUrl": "https://discord.gg/RQUdjt7ptv"
+    },
+    "InstagramImages": [
+        {
+            "ImageName": "4w0178z2j8fadgpr1gkph0hw0.png",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/a12b353ff3df400c9a07b4f5297c9186",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/b46e8b865b3644d087ad9a51984e7944",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/cb80e23f82294989b9fe3401c996e537",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/520199aaed664cf5960ceec7d876b2bd",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/4fdaccb7b2284687bfb7e476b9e0eeab",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/e8b16685c02a42d6a08dfb083a942b4f",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/027c4ad53f314c2a91778194817c61ee",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/d3fb5dce8df14d01a8997e48596e4ed2",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/18267a67bf414d16b2a4e8706e5694fa",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/11c3b71e69ea4052b62684bc4b38b52b",
+            "ImageUrl": null
+        },
+        {
+            "ImageName": "n/35417d675e1e4cfeb642614bef7265ac",
+            "ImageUrl": null
+        }
+    ],
+    "Videos": [
+        {
+            "BlobName": "tf2.mov",
+            "Title": "TF2",
+            "Description": null,
+            "ThumbnailBlobName": "player/1/s3qh6x63wbec8m1ekn26g5q9a.png",
+            "SourceUrl": ""
+        },
+        {
+            "BlobName": "fnaf_cat.mp4",
+            "Title": "fnaf cat",
+            "Description": null,
+            "ThumbnailBlobName": "v2l3r6eu1p5o4hwdk50t5rxt6.png",
+            "SourceUrl": ""
+        },
+        {
+            "BlobName": "RPReplay_Final1691518149.mp4",
+            "Title": "Can I ahev DJ Role?",
+            "Description": null,
+            "ThumbnailBlobName": "78aup6c44dgf8whv7ifibzzgi.png",
+            "SourceUrl": ""
+        }
+    ]
+  }

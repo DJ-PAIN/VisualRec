@@ -1,0 +1,51 @@
+[
+  {
+    "Accessibility": 2,
+    "CloningAllowed": false,
+    "CreatedAt": "2024-06-23T14:35:18.868772",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "Your private room",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "lob2a1gpoxeyo68lz97c7hacj.png",
+    "IsDorm": true,
+    "IsRRO": false,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 4,
+    "MinLevel": 0,
+    "Name": "DormRoom",
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "Roles": [
+      {
+        "AccountId": 1,
+        "Role": 255,
+        "InvitedRole": 0
+      }
+    ],
+    "RoomId": 1,
+    "State": 0,
+    "Stats": {
+      "CheerCount": 0,
+      "FavoriteCount": 0,
+      "VisitorCount": 0,
+      "VisitCount": 0
+    },
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [],
+    "Version": 0,
+    "WarningMask": 0
+  }
+]

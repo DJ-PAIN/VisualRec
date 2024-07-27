@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OldRecRoom - Login</title>
+  <link rel="stylesheet" href="css/login">
+  <script src="js/login"></script>
+  <script>
+    Getimg()
+  </script>
+</head>
+<body>
+  <div class="login-box" style="backdrop-filter: blur(20px);box-shadow: 5px 5px 20px black; background-color: transparent; background-color: rgba(0, 0, 0, 0.6)">
+    <h1 style="color: white;">Login</h1>
+    <form id="login-form" method="post">
+      <div class="login-input" style="color: white;">
+        <input style="color: white;" type="text" id="username" name="username" required>
+        <span></span>
+        <label>Username</label>
+      </div>
+      <div class="login-input" style="color: white;">
+        <input style="color: white;" type="password" id="password" name="password" required>
+        <span></span>
+        <label>Password</label>
+      </div>
+      <div class="login-input">
+        <input type="submit" value="Login">
+      </div>
+      <div class="OldRecRoom-make-acc">
+        <a href="#">Forgot password?</a>
+      </div>
+    </form>
+  </div>
+  <div class="PlayerData" id="PlayerData">
+    <h3></h3>
+  </div>
+  <script>
+
+    const loginForm = document.getElementById('login-form');
+
+    loginForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const username = document.getElementById('username').value;
+      const password = document.getElementById('password').value;
+
+      const data = {
+        username: username,
+        password: password
+      };
+
+      try {
+        const response = await fetch('/api/web/v1/login', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(data)
+        });
+
+        if (response.ok) {
+          // Successful login, redirect or perform other actions
+
+          window.location.href = '/';
+        } else {
+          // Handle login error, e.g., display an error message
+          alert('Login failed. Please check your credentials.');
+        }
+      } catch (error) {
+        // Handle network or other errors
+        console.error('Error:', error);
+      }
+    });
+  </script>
+</body>
+</html>

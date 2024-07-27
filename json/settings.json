@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "settingsData": [
+      {
+        "Key": "Recroom.AccountCreation.HasStarted",
+        "Value": "True"
+      },
+      {
+        "Key": "Recroom.AccountCreation.HasFinished",
+        "Value": "True"
+      },
+      {
+        "Key": "Recroom.AccountCreation.HasChosenUsername",
+        "Value": "True"
+      },
+      {
+        "Key": "Recroom.AccountCreation.HasCreatedPassword",
+        "Value": "True"
+      },
+      {
+        "Key": "SplitTestAssignedSegments",
+        "Value": "1|{\"SplitTesting+RudderStackAnalyticsDestinations_2022_02_10\":\"Disabled\",\"SplitTesting+Consolidated_Info_Account_Creation_NonJr_2022_01_10\":\"Phone\",\"SplitTesting+ParallelNetworkingInitialRoomLoad_2021_06_28\":\"ParallelLoad\",\"SplitTesting+ProfileOnClick_2021_04_30\":\"Off\",\"SplitTesting+DefaultNewPlayersToPlayMenu_2021_05_24\":\"On\",\"SplitTesting+RoomJackpot_2021_11_16\":\"ChanceThenHighlightDefault5Min\",\"SplitTesting+RoomJackpot_V2_E1_2021_12_01\":\"DynamicPlaylists\",\"SplitTesting+UseSets_2021_08_06\":\"UseSets\",\"SplitTesting+RoomSimilarities_2021_10_29\":\"Off\"}"
+      },
+      {
+        "Key": "TUTORIAL_COMPLETE_MASK",
+        "Value": "57"
+      },
+      {
+        "Key": "RRUI_THEME",
+        "Value": "1"
+      },
+      {
+        "Key": "USE_NEW_HOME_SCREEN",
+        "Value": "True"
+      },
+      {
+        "Key": "HAS_SEEN_HOME_SCREEN_CHOICE",
+        "Value": "True"
+      }
+    ]
+  }
+]

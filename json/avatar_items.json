@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "itemsData": [
+      {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "31bb82db-cd30-4988-a8bf-3ce55a12a4c9,,,",
+        "FriendlyName": "Fox Ears",
+        "ToolTip": "",
+        "Rarity": 50
+      },
+      {
+        "AvatarItemType": 0,
+        "AvatarItemDesc": "b6rLwzD4NkKV7xKn9ZYVkA,TEgugZRs80iJbhL87RdYwg,oHKhT-GTx0iFWrrlz9s6Tw,",
+        "FriendlyName": "Rec Room Hoodie (Pink)",
+        "ToolTip": "",
+        "Rarity": 30
+      }
+    ]
+  }
+]

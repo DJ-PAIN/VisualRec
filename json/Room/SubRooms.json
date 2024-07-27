@@ -1,0 +1,13 @@
+[
+  {
+    "SubRoomId": 1,
+    "RoomId": 1,
+    "Name": "Home",
+    "DataBlob": "",
+    "IsSandbox": true,
+    "MaxPlayers": 4,
+    "Accessibility": 1,
+    "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+    "SavedByAccountId": -1
+  }
+]
